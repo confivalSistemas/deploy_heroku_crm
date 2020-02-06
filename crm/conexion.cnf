@@ -1,0 +1,8 @@
+# my.cnf
+[client]
+local = 'localhost'
+database = 'confival'
+user = 'root'
+password = ''
+port = '3306'
+default-character-set = utf8
